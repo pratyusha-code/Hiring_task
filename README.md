@@ -1,6 +1,6 @@
 # Hiring_task
 Hiring task 2023
-Malay (mbasu@kumc.edu)
+Malay Basu
 Table of contents
 1 Task 1
 2 Data 1
@@ -52,8 +52,5 @@ GitHub link. No other way of submission is admissible.
 
 5 How to submit
 You should create a new repository on GitHub. Put your program only (not any other file) into this repository
-and send me a direct link to the file (not the whole repository) to my email address mbasu@kumc.edu. Use
-reply to the email that I sent initiating this task. The email must reach me within 48 hours of the initial email.
-So it is better to be safe and avoid submitting your answer at the very last moment. Make sure you received a
-reply from me acknowledging your submission.
+and send me a direct link to the file (not the whole repository) to my email address.Use reply to the email that I sent initiating this task. The email must reach me within 48 hours of the initial email.So it is better to be safe and avoid submitting your answer at the very last moment. Make sure you received a reply from me acknowledging your submission.
 All the best!
