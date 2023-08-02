@@ -24,7 +24,7 @@ Table of contents:-
       Task 2
    
       E. coli MG1655 is the standard reference strain of E. coli. The protein FASTA file for this strain can be
-      downloaded fromhttps://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.faa
+      downloaded from https://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.faa
       Using just bash commands can you find out what is the average length of protein in this strain? You may use as many commands as you may wish.
 
       Task 3
