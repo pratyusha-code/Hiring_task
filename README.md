@@ -65,7 +65,7 @@ Table of contents:-
       Note:
       1. You must use only bash commands. No other programming language is allowed. If you are using Mac
       or Linux, then bash automatically comes along with the machine. For windows you need to install
-      bash. Follow the instructions here: https://superuser.com/questions/608106/how-can-i-use-a-bashlike-shell-on-windows.
+      bash. Follow the instructions here:https://superuser.com/questions/608106/how-can-i-use-a-bash-like-shell-on-windows
       2. You can either provide a single command line or a bash script.
       3. You may need the following commands in bash to complete this task: wget, zcat, wc, tr, bc,
       and grep. You are not restricted to any of these commands. You can use any or all or any other bash
