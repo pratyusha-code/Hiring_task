@@ -24,9 +24,8 @@ Table of contents:-
       Task 2
    
       E. coli MG1655 is the standard reference strain of E. coli. The protein FASTA file for this strain can be
-      downloaded from https://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_
-      12_substr__MG1655_uid57779/NC_000913.faa. Using just bash commands can you find out what is the
-      average length of protein in this strain? You may use as many commands as you may wish.
+      downloaded fromhttps://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.faa
+      Using just bash commands can you find out what is the average length of protein in this strain? You may use as many commands as you may wish.
 
       Task 3
    
@@ -59,8 +58,7 @@ Table of contents:-
       Data-for task 2
       
       NC_000913.faa.gz is a amino acid FASTA file compressed using gzip. You download the same file from
-      here: https://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_12_substr_
-      _MG1655_uid57779/NC_000913.faa
+      here: https://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.faa
   
       Note:
       1. You must use only bash commands. No other programming language is allowed. If you are using Mac
@@ -77,8 +75,7 @@ Table of contents:-
       Data for task 3
       
       Homo_sapiens.gene_info.gz . This is a tab-delimited text file that contains information about all the genes
-      in the human genome. If you are interested in more about this file format check here: https://ftp.ncbi.nih.
-      gov/gene/DATA/README.
+      in the human genome. If you are interested in more about this file format check here:https://ftp.ncbi.nih.gov/gene/DATA/README
 
       Note:
       1. The figure should exactly look like the above figure.
